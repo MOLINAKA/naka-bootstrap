@@ -1,0 +1,128 @@
+#aboutmetitle{
+    color:rgb(54, 88, 15);
+    text-align: left;
+    padding-top:30px;
+    font-family: Monoton;
+    margin-left: 30px;
+    margin-top:50px;
+}
+
+.col-2{
+    margin-top: 170px;
+}
+#col-2{
+    margin-left: -40px;
+    margin-top: 170px;
+}
+
+.col-11{
+    margin-left: 50px;
+}
+.vl {
+    border-left: 4px solid rgb(9, 80, 80);
+    height: 450px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 80px;
+  }
+
+.col-5{
+    margin-top: 150px;
+}
+#im2-gall{
+    margin-left: 180px;
+}
+#textim2-gall{
+    margin-left: 180px;
+}
+#im3-gall{
+    margin-left: 90px;
+}
+#textim3-gall{
+    margin-left: 190px;
+    margin-top: 170px;
+}
+#im5-gall{
+    margin-left: 180px;
+}
+#textim5-gall{
+    margin-left: 180px;
+}
+#im6-gall{
+    margin-left: 90px;
+}
+#textim6-gall{
+    margin-left: 190px;
+    margin-top: 170px;
+}
+#im8-gall{
+    margin-left: 180px;
+}
+#textim8-gall{
+    margin-left: 180px;
+}
+.hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 0;
+    border-top: 3px; 
+    color: solid rgba(11, 58, 145, 0.1);
+  }
+  #vl-gall{
+    border-left: 4px solid rgb(9, 80, 80);
+    height: 2000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 80px;
+  }
+#molinaka{
+    margin-top: 70px;
+    font-family: permanent marker;
+}
+#whereiamfromtext{
+    margin-top: -170px;
+    text-align: center;
+    font-family: Raleway;
+}
+#vl-imfrom{
+    border-left: 4px solid rgb(9, 80, 80);
+    height: 900px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    margin-top: 80px;
+}
+#aboutmetext{
+    margin-top: 80px;
+    font-family: QuickSand;
+    word-spacing: 1px;
+    letter-spacing:1px;
+}
+#aboutmepic{
+    margin-left: -50px;
+}
+.bg-light{
+    margin-right:-85px;
+    margin-left:-35px;
+    margin-top: 30px;
+    padding: 30px;
+}
+.des{
+    font-family:Righteous;
+}
+#im6{
+    margin-top:-150px;
+}
+.subtitle{
+    font-family: Dancing Script;
+    font-size:37px;
+}
+#mynametext{
+    margin-left: 220px;
+    margin-top: -50px;
+    font-family: Raleway;
+    word-spacing:1px;
+    letter-spacing: 1px;
+}
